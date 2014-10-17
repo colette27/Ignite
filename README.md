@@ -1,4 +1,4 @@
-StarterMAP
+Starter Ignite
 ==========
 
-Starter Mobile Application Platform
+Starter Ignite Mobile Application Platform

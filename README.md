@@ -1,6 +1,16 @@
 Starter Ignite
 ==========
 
-Starter Ignite Mobile Application Platform
+Starter Ignite Mobile/Web Application Platform
 
-Content Commit on the way...
+-- Backend Services
+
+- Push Notifications (w/ Amazon SNS)
+- Personalization
+- Image uploads and processing (re-sizing, blur effect)
+- File upload and Cloud storage
+- Social Sharing
+- Ratings and Analytics
+- Email notifications and broadcast lists
+- Calendaring
+- Group based security
